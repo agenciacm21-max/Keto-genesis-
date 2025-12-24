@@ -1,0 +1,5 @@
+{
+  "name": "KetoGenius - Gerador de Cardápio Cetogênico",
+  "description": "Um aplicativo inteligente para geração de planos alimentares cetogênicos personalizados, incluindo quiz de perfil, triagem médica, cálculo de macros e exportação para PDF.",
+  "requestFramePermissions": []
+}
